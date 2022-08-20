@@ -1,0 +1,5 @@
+first make a detabase as the name of dera_resturant
+and then import the detabase from the detabase folder
+after running click to reservation.php
+user name is (NAHID)
+PASSWORD is (123) 
